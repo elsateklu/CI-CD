@@ -1,4 +1,4 @@
-name: hello-Elsa
+name: hello-elsa
 on: push
 jobs:
   sample-job:
